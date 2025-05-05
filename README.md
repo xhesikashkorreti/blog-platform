@@ -1,5 +1,5 @@
 # Blog Platform
-A full-featured blog web applicarion built with Django that allows users to create, edit, and delete blog posts, leave comments, and register/login.
+A full-featured blog web application built with Django that allows users to create, edit, and delete blog posts, leave comments, and register/login.
 ----
 ## Features
 - User registration and authentication (login/logout)
